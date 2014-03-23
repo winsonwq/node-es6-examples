@@ -1,3 +1,5 @@
+此项目为`node-es6-examples`的同步中文翻译
+
 ECMAScript 6 in Node.JS
 ===
 
